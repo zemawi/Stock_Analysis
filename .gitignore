@@ -1,0 +1,11 @@
+data
+
+.venv
+
+ta-lib
+
+.python-version
+
+__pycache__
+
+*csv
